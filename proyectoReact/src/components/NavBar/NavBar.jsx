@@ -1,14 +1,15 @@
 import CartWidget from "../CartWidget/CartWidget"
+import './NavBar.css'
 
 const NavBar = () => {
     return (
         <nav>
-            <h1>REVERV!</h1>
-            <h3>Eventos y más!</h3>
+            <h1>erkizi</h1>
+            <h3>Mucho más que indumentaria</h3>
             <div>
-                <button>Techno</button>
-                <button>Progressive</button>
-                <button>TechHouse</button>
+                <button>Remeras</button>
+                <button>Pantalones</button>
+                <button>Camperas</button>
             </div>
             <CartWidget />
         </nav>
