@@ -3,6 +3,10 @@
   margin: 0px;
   box-sizing: border-box;
 }
+.App{
+  display: block;
+
+}
 
 button {
   background-color: transparent;

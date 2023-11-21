@@ -1,3 +1,4 @@
-.ListGroup{
-   display: flex;
+.ListGroup {
+   align-items: center;
+   justify-items: center;
 }
