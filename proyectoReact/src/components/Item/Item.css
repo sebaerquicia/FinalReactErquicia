@@ -1,0 +1,17 @@
+.CardItem {
+    display: flex;
+    justify-content: space-between;
+    height: 250px;
+    max-width: 1000px;
+    margin: 10px;
+    padding: 10px 10px;
+    border: solid 1px #cfcfcf;
+    
+    border-radius: .5rem;
+    width: 80%;
+}
+img {
+    object-fit: contain;
+    height: 100%;
+    width: 100%;
+}

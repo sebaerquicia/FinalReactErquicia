@@ -1,0 +1,13 @@
+.Info{
+    padding: 10px;
+    margin: 5px;
+
+}
+.Header{
+    justify-content: space-around;
+    padding: 15px;
+
+}
+.CardItem{
+    justify-content: space-between;
+}
